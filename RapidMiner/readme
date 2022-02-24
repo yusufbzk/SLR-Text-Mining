@@ -1,0 +1,6 @@
+After installing RapidMiner, please import the process SmartCity_RapidMinerProcess.rmp into your RapidMiner Workbench. Then you need to download the files and link them to the corresponding task as follows:
+1) Read Excel: The Dataset 
+2) Custom filter words: filter.txt
+3) Custom filter words Journals: filter_journals.txt
+4) Custom filter words this analysis: filter_this_analysis.txt
+5) R-Script: Task "create wordcloud": In line 10, please change the path to your local computer: "png("C:\\Users\\reiner.FF\\Desktop\\Smart_City_RapidMiner\\wordclouds\\wordcloud_m10_topic.png", height=1600, width=1600, res=250)" 
