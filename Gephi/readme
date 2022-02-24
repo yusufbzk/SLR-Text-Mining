@@ -1,0 +1,1 @@
+We used Gephi to create network graphs for the clusters. After installing Gephi, you can import the attached Gephi project and include the files "Cluster_IDs.csv" and "X_Mean_Cluster.csv". These files were created by the text mining process with RapidMiner.  
