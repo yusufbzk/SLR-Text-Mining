@@ -1,1 +1,4 @@
-We used Gephi to create network graphs for the clusters. After installing Gephi, you can import the attached Gephi project and include the files "Cluster_IDs.csv" and "X_Mean_Cluster.csv". These files were created by the text mining process with RapidMiner.  
+We used Gephi to create network graphs for the clusters. 
+After installing Gephi, you can import the attached Gephi project and include the files "Cluster_IDs.csv" and "X_Mean_Cluster.csv". These files were created by the text mining process with RapidMiner.  
+
+Please note that the Gephi project is split into 7 winrar files as it was too large to upload here as a single file. You need to download all 7 winrar files.
